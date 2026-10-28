@@ -24,7 +24,6 @@
 | | |
 |---|---|
 | **Nama** | Gusnan |
-| **NIM** | `[isi NIM]` |
 | **Kelas** | IF24A |
 | **Mata Kuliah** | Pembelajaran Mesin |
 | **Semester** | 5 |
